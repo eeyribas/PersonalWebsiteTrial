@@ -9,9 +9,9 @@
                     <img class="img-circle" src="Images/cvfoto.jpg"  width="230" height="200">
                     <hr class="featurett-divider">
                     <h2>/* Personal Information */</h2>
-                    <p>Full Name: Esen EYRİBAŞ<br />Date of Birth: 9 April 1992
+                    <p>Full Name: Esen EYRİBAŞ<br />Date of Birth: 9 April
                     <br />Address: Ataşehir, İstanbul<br />Military Service Status: Postponed
-                    <br />Driver's License Status: Available (Class B)<br />e-mail: eeyribas1@gmail.com</p>
+                    <br />Driver's License Status: Available (Class B)<br />e-mail: x@gmail.com</p>
                 </div>
                 <div class="col-lg-8">
                     <h2>/* Experience */</h2>

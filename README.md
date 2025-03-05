@@ -1,7 +1,8 @@
 # PersonalWebsiteTrial
+This repository contains a personal website design. The personal site includes pages prepared based on information such as CV, articles, contact, communication, and social media links.
 
-I designed my personal website. This repository is related to it. It was coded in the C#.NET Programming Language. Bootstrap and JQuery were used.
+Programming Language: C#.NET Programming Language
+
+Framework: .NET Framework 4.6.1, Bootstrap, JQuery
 
 IDE: Visual Studio 2019
-
-Since my expertise is not in the C#.NET Programming Language, it may be simple or complex. I am sharing it for those who may benefit from it. 

@@ -31,7 +31,7 @@
                         <div class="panel-body">
                             <hr /><p class="lead">
                             If you encounter an error while uploading files, you can send them to the following email addresses. My email addresses are:
-                            <br /> <br />eeyribas1@gmail.com<br /><br />eseneeyribas@gmail.com<br /><br />eseneyribasbilgi@gmail.com<br /><br />
+                            <br /> <br />x1@gmail.com<br /><br />x2@gmail.com<br /><br />x3@gmail.com<br /><br />
                             I check my emails between 17:00 and 24:00. I may respond to your email late; thank you for your understanding.<br /> </p>      
                         </div>
                     </div>
